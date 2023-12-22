@@ -7,7 +7,7 @@
 
 ## About
 
-This repository contains simple exercises to learn rust.
+This repository contains simple exercises to learn rust. Currently based on [doc.rust-lang.org](https://doc.rust-lang.org) and [codecademy.com/courses/rust-for-programmers](https://www.codecademy.com/courses/rust-for-programmers).
 
 ## Exercises
 
